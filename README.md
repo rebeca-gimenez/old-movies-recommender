@@ -1,5 +1,5 @@
 # Old Movies Recommender
-A recommender code that takes as **input** 2 datasets (Movies and Ratings), a movie ID, and filters, and **returns** a list of similar films.<br>
+Code that takes as **input** 2 datasets (Movies and Ratings), a rater ID, and filters, and **returns** a list of recommended films for that rater, based on the ratings of other users.<br>
 Includes basic testing code in JUnit.<br>
 The method getSimilarRatings and getSimilarRatingsWithFilter from the ratings.java file contains the code for the recommendations.
 ## Input
